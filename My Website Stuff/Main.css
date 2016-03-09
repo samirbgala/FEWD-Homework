@@ -1,0 +1,43 @@
+body {
+      text-align: center;
+       background: url("https://lh3.googleusercontent.com/m0pyjiGpfqG8odV4HYopRCSJINt5GG2yy0tfqu1_qZlc_NqtDnMTy3ruDyYZMCw2ne0CSjCZdsHrJUIaE26hUYYNmbeDEuYosp7gtD4QXkRPQ-OFL1685A4RAnp16pMplUJ9_LjvmECMxezgshapGapm52iazcyXMNddDrxcF1pU56N5R7Ag9CkYmthjVzyoLd3va_fjiHEtRkIIU_diCdwXljAbObUVZKra2ZB5cpwwZ2lRutSvwahOkMd8GHQp6llAmga8K37Jn8AmF3abgU-9-jPe4J7-XkZUKNxB2NYt-OOknEV_6O0kGCM2pNVEOAZgcWeed3iiKs0Sae6Q7jOT_v8VOoCXFRIw8Z3aj5cus1VUUqSrNSKArIbkWVVEsSIfV86Lr92s9Y32wOPbWhZ262Qsk4ZElj1fvbLsL0C4n5Ve_ygjVuzzXbSs_QzPlbaVAt8LUzuyS2nwz-x3M7-MEVfi-LsrWopGPtoZ2o8uo5T5cW8O92LEcFQC7SNGYDvxkp6-gmduK_9EOh5q3SCCoghfo5Bi4DgWbm3rONxvdoVfOUryIa3kjJ8hRtt4sBK3=w2166-h1624-no");
+       background-size: cover;
+       background-position: center;
+       background-repeat: no-repeat;
+      color: white;
+      font-family: helvetica;
+
+    }
+    p {
+      font-size: 22px;
+      color: white;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    li {
+      text-align: Center;
+    text-decoration-color: white;
+    color: white;
+}
+ul#menu {
+    padding: 0;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: orange;
+}
